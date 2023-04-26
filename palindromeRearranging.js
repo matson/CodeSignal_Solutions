@@ -11,7 +11,7 @@ function solution(inputString) {
         tally[element] = 1
       }
     })
-  console.log(tally)
+  //console.log(tally)
   //Rules
   var oddCount = 0;
   for(i in tally){
