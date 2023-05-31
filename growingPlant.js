@@ -13,11 +13,6 @@ function solution(upSpeed, downSpeed, desiredHeight) {
     return days
     // var heightPlus = upSpeed + currHeight
     // var heightMinus = currHeight - downSpeed
-    
-    
-    
-    
-
 }
 console.log(solution(100, 10, 910))
 //10
